@@ -1,7 +1,6 @@
 {
   "name": "@stellar-expert/webpack-utils",
   "version": "1.0.1",
-  "type": "module",
   "private": true,
   "description": "Webpack bundiling utils for StellarExpert UI toolkit",
   "main": "index.js",
